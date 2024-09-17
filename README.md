@@ -21,7 +21,7 @@ I'm a dedicated C#.NET Developer with a passion for building efficient and scala
 ### 🔋 **Battery Life Application**
 - **Description**: A lightweight Windows application that protects your battery by providing voice notifications for low charge and full charge states. This project is open-source and available for fixing or updating with a team.
 - **Technologies**: C#, Windows Forms, Multithreading.
-- [View Project](https://github.com/tharun-kumar-r/battery-life-application)
+- [View Project](https://github.com/tharun-kumar-r/Battery-Life)
 
 ### 📦 **Placement Management System**
 - **Description**: A PHP-based application designed for managing placement activities efficiently.
