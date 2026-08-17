@@ -47,7 +47,7 @@ I have developed various applications including:
 - **Finance Windows Application**
 - **CMS Dynamic Website**
 
-For more information about these and other projects, visit [Rajsoft Technologies](https://rajsoft.org.in), my company website.
+For more information about these and other projects.
 
 ---
 
